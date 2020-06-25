@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 import Message from './Message';
-import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
+import ReactCSSTransitionGroup from 'react-transition-group';
 import { StyleSheet, css } from 'aphrodite';
 import assignDeep from 'object-assign-deep';
 
